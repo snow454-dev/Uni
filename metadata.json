@@ -1,0 +1,6 @@
+{
+  "name": "ウニ種苗 AI生産管理",
+  "description": "エゾバフンウニ種苗生産センター向け AI画像解析・生産管理ダッシュボード（幼生・稚ウニの計数、生残率、着底状況の一画面管理）",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
